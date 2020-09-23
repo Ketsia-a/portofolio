@@ -9,7 +9,8 @@
   margin: 20px;
   border-radius: 10px;
 }
-h1{
+
+h1 {
   font-size: 80px;
 }
 
@@ -56,7 +57,6 @@ h1{
 
 .solid {
   width: 30%;
-  
 }
 
 .overlay {
